@@ -1,8 +1,13 @@
 # 🚀 AutoRiskML - The First Fully Automated Risk & Trading Intelligence Engine
 
-[![PyPI version](https://badge.fury.io/py/autoriskml.svg)](https://pypi.org/project/autoriskml/)
+[![PyPI version](https://badge.fury.io/py/autoriskml.svg)](https://pypi.org/project/autoriskml/0.1.0/)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Downloads](https://pepy.tech/badge/autoriskml)](https://pepy.tech/project/autoriskml)
+
+**📦 PyPI Package:** https://pypi.org/project/autoriskml/0.1.0/  
+**🐙 GitHub Repository:** https://github.com/idrissbado/AutoRiskML  
+**📚 Documentation:** https://github.com/idrissbado/AutoRiskML/tree/main/docs
 
 > **The only Python package that acts like a Senior Risk Data Scientist**
 
@@ -575,7 +580,7 @@ Built with inspiration from years of risk modeling in banking and fintech.
 
 ## 📧 Contact
 
-- **Author**: Idriss Bado
+- **Author**: Idriss Olivier Bado
 - **Email**: idrissbadoolivier@gmail.com
 - **GitHub**: [idrissbado](https://github.com/idrissbado)
 
